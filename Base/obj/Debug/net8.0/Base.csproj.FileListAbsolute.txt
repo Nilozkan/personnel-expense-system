@@ -1,0 +1,12 @@
+D:\Papara_odevler\personnel-expense-system\Base\bin\Debug\net8.0\Base.deps.json
+D:\Papara_odevler\personnel-expense-system\Base\bin\Debug\net8.0\Base.dll
+D:\Papara_odevler\personnel-expense-system\Base\bin\Debug\net8.0\Base.pdb
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.AssemblyInfoInputs.cache
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.AssemblyInfo.cs
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.csproj.CoreCompileInputs.cache
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.sourcelink.json
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.dll
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\refint\Base.dll
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\Base.pdb
+D:\Papara_odevler\personnel-expense-system\Base\obj\Debug\net8.0\ref\Base.dll
