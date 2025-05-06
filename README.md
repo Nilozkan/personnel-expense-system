@@ -49,7 +49,7 @@ Uygulamayı çalıştırın:
 dotnet run --project WebAPI
 
 🔐 Kimlik Doğrulama
-(JWT kimlik doğrulama hatalı)
+(JWT kimlik doğrulama hatalı. Bu kısımda aldığım hatayı çözemediğim için proje build oluyor fakat Token almam gereken endpointler 500 hatası fırlatıyor. Teslim tarihinden önce düzeltemediğim için bu şekilde teslim ettim.)
 API, JWT kimlik doğrulama kullanır. Örnek giriş akışı:
 
 Token alın:
