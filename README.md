@@ -44,8 +44,8 @@ appsettings.json dosyasında veritabanı bağlantısını yapılandırın:
 Veritabanı migration'larını uygulayın:
 
 dotnet ef database update --project WebAPI
-Uygulamayı çalıştırın:
 
+Uygulamayı çalıştırın:
 dotnet run --project WebAPI
 
 🔐 Kimlik Doğrulama
