@@ -181,3 +181,5 @@ D:\Papara_odevler\personnel-expense-system\WebAPI\obj\Debug\net8.0\ref\WebAPI.dl
 D:\Papara_odevler\personnel-expense-system\WebAPI\bin\Debug\net8.0\MediatR.dll
 D:\Papara_odevler\personnel-expense-system\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\Papara_odevler\personnel-expense-system\WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Papara_odevler\personnel-expense-system\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Papara_odevler\personnel-expense-system\WebAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll

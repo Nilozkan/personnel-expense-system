@@ -30,7 +30,8 @@ namespace WebAPI.CQRS.Command
                 Surname = model.Surname,
                 Email = model.Email,
                 Iban = model.Iban,
-                Password = model.Password,
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword(model.Password),
+                Password = null,
                 RoleId = model.RoleId,
             };
 
@@ -48,6 +49,7 @@ namespace WebAPI.CQRS.Command
                 Iban = user.Iban,
                 RoleName = roleName,
             };
+            
             return new BaseResponse<UserResponse>(response, "User created successfully");
         }
 

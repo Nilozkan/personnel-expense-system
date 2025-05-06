@@ -14,6 +14,8 @@ namespace WebAPI.DbContext
 
         public DbSet<User> Users => Set<User>();
         public DbSet<Role> Roles => Set<Role>();
+        public DbSet<Category> Categories => Set<Category>();
+        public DbSet<ExpenseRequest> ExpenseRequests => Set<ExpenseRequest>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
